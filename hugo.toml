@@ -1,4 +1,4 @@
-baseURL = "https://beehaa.github.io/"
+baseURL = "https://beehaa.github.io/blog"
 title = "Brian Ha"
 paginate = 5
 theme = "PaperMod"
