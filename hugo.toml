@@ -15,8 +15,8 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "ExampleSite"
-description = "ExampleSite description"
+title = "Brian Ha"
+description = "my personal blog"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Brian Ha"
 images = [ "<link or path of image for opengraph, twitter-cards>" ]
@@ -24,7 +24,7 @@ DateFormat = "January 2, 2006"
 defaultTheme = "auto"
 disableThemeToggle = false
 ShowReadingTime = true
-ShowShareButtons = true
+ShowShareButtons = false
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = false
@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my blog"
+  Content = "Welcome to my personal blog"
 
   [[params.socialIcons]]
   name = "linkedin"
@@ -98,11 +98,6 @@ SiteVerificationTag = "XYZabc"
   hiddenInList = true
   hiddenInSingle = true
 
-  [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
-
   [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true
@@ -113,22 +108,32 @@ SiteVerificationTag = "XYZabc"
   keys = [ "title", "permalink", "summary", "content" ]
 
 [[menu.main]]
-identifier = "categories"
-name = "categories"
-url = "/categories/"
+identifier = "about"
+name = "about me"
+url = "pages/about"
 weight = 10
+
+[[menu.main]]
+identifier = "posts"
+name = "posts"
+url = "/posts/"
+weight = 20
 
 [[menu.main]]
 identifier = "tags"
 name = "tags"
 url = "/tags/"
-weight = 20
+weight = 30
 
 [[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
+identifier = "search"
+name = "search"
+url = "/search/"
+weight = 40
+
 
 [markup.highlight]
 noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
