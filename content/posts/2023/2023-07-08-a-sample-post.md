@@ -1,8 +1,8 @@
 ---
-title: "2023 07 08 a Sample Post"
+title: "My First Post"
 date: 2023-07-08T01:15:10-07:00
 draft: true
-tag: ["hello"]
+tags: [hello]
 ---
 
-hello world
+hello world!

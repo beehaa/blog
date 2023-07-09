@@ -69,8 +69,8 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
-  Content = "Welcome to my personal blog"
+  Title = "Hi, I'm Brian 👋"
+  Content = "Welcome to my blog, a digital playground where I let my thoughts run wild and share all sorts of random things. Consider this space my virtual scratch pad, where I jot down whatever comes to mind and let my creativity roam free."
 
   [[params.socialIcons]]
   name = "linkedin"
@@ -110,7 +110,7 @@ SiteVerificationTag = "XYZabc"
 [[menu.main]]
 identifier = "about"
 name = "about me"
-url = "pages/about"
+url = "/about/"
 weight = 10
 
 [[menu.main]]
