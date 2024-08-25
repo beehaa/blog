@@ -70,7 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi, I'm Brian 👋"
-  Content = "Welcome to my blog, a digital playground where I let my thoughts run wild and share all sorts of random things. Consider this space my virtual scratch pad, where I jot down whatever comes to mind and let my creativity roam free."
+  Content = "Welcome to my blog, a space where I share my journey and learnings as I navigate a career in data engineering. Whether you're here for data engineering insights or just curious about the topics that inspire me, I hope you find something valuable in what I share."
 
   [[params.socialIcons]]
   name = "linkedin"

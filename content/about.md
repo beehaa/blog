@@ -6,19 +6,17 @@ showtoc: false
 hidemeta: false
 ---
 
-### Intro
 
-Hello! I'm Brian Ha, a graduate student at the University of California, Irvine (UCI), pursuing a Master's degree in Computer Science. Currently, I'm interning at Adobe as a Finance Data Engineer Intern, where I have the opportunity to apply my technical skills to real-world projects.
+### About the blog
 
-### Education and Background
+I anticipate this blog to be about most things data (data engineering, ML/AI, and software development) with a few sprinkles of lifestyle and personal topics that interest me.
 
-I completed my undergraduate studies at Boston College, where I earned a Bachelor's degree in Computer Science and Economics. During my time there from 2016 to 2020, I developed a strong foundation in both technical and analytical disciplines.
+### About Me
 
-### Passion and Interests
+Hello! I'm Brian Ha and the author of this personal blog. I am a data nerd who loves all things data and want to share my learning journey with like-minded people.
 
-I am deeply passionate about utilizing technology to drive innovation and make a positive impact. I enjoy exploring the latest advancements in machine learning, data analysis, and software development. I thrive in collaborative environments where I can contribute my skills and learn from others.
+I completed my undergraduate studies at Boston College (Go Eagles!), where I earned a bachelor's degree in computer science and economics. After spending two years in data analytics consulting, I pursued a master's degree in computer science from the University of California, Irvine (Zot Zot Zot) and have since been working in the data engineering space.
 
 ### Let's Connect!
 
 If you share similar interests or have any exciting opportunities, I would love to connect with you. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brian-ha/).
-
