@@ -1,11 +1,9 @@
 ---
-title: "Follow my Data Engineering Journey"
+title: "Starting my Data Engineering Journey"
 date: 2024-08-25T16:21:26-07:00
 draft: false
 tags: [data engineering, data, journey, learning]
 ---
-
-# My Data Engineering Journey
 
 Welcome to the first post of my blog! This space is something I've been meaning to create for a while now, and I'm excited to finally get it off the ground. Let me take a moment to explain why I'm doing this and what I hope to achieve.
 
