@@ -1,7 +1,7 @@
 ---
 title: "Follow my Data Engineering Journey"
 date: 2024-08-25T16:21:26-07:00
-draft: true
+draft: false
 tags: [data engineering, data, journey, learning]
 ---
 
