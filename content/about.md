@@ -6,9 +6,6 @@ showtoc: false
 hidemeta: false
 ---
 
-
-### About the blog
-
 I anticipate this blog to be about most things data (data engineering, ML/AI, and software development) with a few sprinkles of lifestyle and personal topics that interest me.
 
 ### About Me
